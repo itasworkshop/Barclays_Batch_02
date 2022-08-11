@@ -1,0 +1,4 @@
+Java --> open source, object oriented programing
+static type language
+class
+objects
