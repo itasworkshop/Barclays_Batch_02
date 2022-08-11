@@ -1,0 +1,11 @@
+Design Pattern
+well proved solutions of common problems
+
+1) Creational DP -->5
+used to define how objects are created during class instantiation time.
+--> Factory
+--> Singleton
+--> Prototype
+
+2) Structural DP -->7
+3) Behavioural DP -->11
