@@ -1,0 +1,56 @@
+Spring Framework
+
+Web Application
+client-server architecture
+
+client --> sending request
+server --> is responsible for enetertaining request coming from client
+example --> Tomcat server
+
+Spring Framework--> open source java web application
+Dependancy injection -->
+wherever you need spring container automatically injects it for objects
+IOC --> Inversion of control
+container will be responsible for creating objects and it will injects 
+
+spring managed objects --> Beans
+
+object
+new MyService(); --> tight coupling
+
+Spring Boot Framework
+Auto configuration
+Annotations which suitable for microservices
+
+@SpringBootApplication
+Indicates a configuration class that declares one or more @Bean methods and also triggers auto-configuration and component scanning. This is a convenienceannotation that is equivalent to declaring @Configuration, @EnableAutoConfiguration and @ComponentScan.
+
+MVC architecture
+Model --> Databases
+View --> user interaction
+Controller --> for which path which resource should be in response
+for example:-
+
+www.mysite.com/users
+
+/users --> List<User>
+
+
+REST API --> Resprentational State Tranfer
+standards how my application available
+for communitation
+
+API --> Application programming interface
+one software talks to another software
+
+HTTP Methods
+1) GET
+2) POST
+3) PUT
+4) DELETE
+
+Note:
+Port 8080 was already in use.
+
+solution
+server.port= 8090 //in application.properties
