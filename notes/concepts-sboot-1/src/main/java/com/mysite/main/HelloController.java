@@ -14,6 +14,7 @@ public class HelloController {
 		return "Hello from my first spring controller";
 	}
 	
+	/*
 	@RequestMapping("/users")
 	@ResponseBody
 	String helloUsers() {
@@ -25,5 +26,6 @@ public class HelloController {
 	String helloUserBasedOnName(@PathVariable String name) {
 		return "Hello from my first user controller your name is "+name;
 	}
+	*/
 
 }
