@@ -43,9 +43,9 @@ for communitation
 API --> Application programming interface
 one software talks to another software
 
-HTTP Methods
-1) GET
-2) POST
+HTTP Methods --> CRUD [create,Read, update and delete]
+1) GET --> Read data from db
+2) POST --> create action
 3) PUT
 4) DELETE
 
