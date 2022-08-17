@@ -1,0 +1,10 @@
+Task-1
+
+1) Create a Web app for Calculator program
+accept values in path from user and generate proper response for addition,subtraction,multiplication and dicision functionality.
+2) Create a Web app for Student grade program
+accept marks values in path from user and generate proper response for grade calculation functionality.
+90- 100 --> A
+80- 90 --> B
+70- 80 --> c
+otherwise Fail
